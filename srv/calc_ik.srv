@@ -1,0 +1,6 @@
+std_msgs/String whichArm
+thormang3_manipulation_module_msgs/JointPose[] currJointPose
+geometry_msgs/Pose desiredPose
+---
+thormang3_manipulation_module_msgs/JointPose[] targJointPose
+
